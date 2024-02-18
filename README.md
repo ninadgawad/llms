@@ -12,3 +12,14 @@ These models are trained on vast amounts of text data and can generate coherent 
 5. XLNet by Google/CMU
 
 
+
+## Prompt Engineering 
+Prompt engineering is the practice of designing and refining prompts, which are questions or instructions, to draw out specific responses from generative AI models. 
+This involves crafting the right questions or instructions to guide AI models, especially Large Language Models (LLMs), to produce desired outcomes
+The process combines elements of logic, coding, art, and special modifiers, and the prompts can include natural language text, images, or other types of input data
+Prompt engineering is crucial for creating better AI-powered services and getting better results from existing generative AI tools
+
+
+
+
+
