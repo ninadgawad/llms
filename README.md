@@ -20,6 +20,15 @@ The process combines elements of logic, coding, art, and special modifiers, and 
 Prompt engineering is crucial for creating better AI-powered services and getting better results from existing generative AI tools
 
 
+## Prompt Crafting 
+Prompt crafting is the process of creating and refining inputs or instructions (prompts) to guide AI systems, particularly language models like GPT, in generating specific and relevant responses or outputs.
+It involves understanding the user's expectations, the constraints of the environment, and the context in which the prompt is being used
+Effective prompt crafting is crucial for harnessing the full potential of AI-generated content and can lead to more accurate and useful responses, helping achieve goals more efficiently
 
-
+### Few Examples of well-crafted prompts:
+1. Task: Define Purpose
+2. Context: Provide Relevant Information
+3. Query: Frame Question
+4. Constraints: Guide the Response
+5. Format: Structure Your Prompt
 
