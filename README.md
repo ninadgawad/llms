@@ -32,3 +32,8 @@ Effective prompt crafting is crucial for harnessing the full potential of AI-gen
 4. Constraints: Guide the Response
 5. Format: Structure Your Prompt
 
+
+# AI Tools
+![AI Tools](https://github.com/ninadgawad/llms/blob/main/images/AI%20Tools.drawio.png)
+
+
