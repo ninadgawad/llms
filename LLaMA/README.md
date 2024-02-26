@@ -19,4 +19,10 @@ del miniconda.exe
 **Step2:** Create conda envrionment 
 ```
 conda create -n myenv python=3.12
+conda active myenv
+```
+
+**Step3:** Install pytorch
+```
+pip3 install torch torchvisiontorchaudio
 ```
