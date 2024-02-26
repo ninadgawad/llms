@@ -9,9 +9,14 @@ The dataset used for training LLaMA contains approximately 1.2 trillion tokens
 
 ### How to install LLaMA
 
-Step1: Install Miniconda - [Link](https://docs.anaconda.com/free/miniconda/)
+**Step1:** Install Miniconda - [Link](https://docs.anaconda.com/free/miniconda/)
 ```
 curl https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe -o miniconda.exe
 start /wait "" miniconda.exe /S
 del miniconda.exe
+```
+
+**Step2:** Create conda envrionment 
+```
+conda create -n myenv python=3.12
 ```
