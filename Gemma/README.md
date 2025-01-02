@@ -46,7 +46,7 @@ ollama run gemma
 
 ### Sample Prompt
 ```
-ollama run gemma -p "What is future of AI like Gemma in 2025?"
+ollama run gemma p "What is future of AI like Gemma in 2025?"
 ```
 ### Screenshot from my Local
 ![Gemma Locally](ollama-gemma.png)
