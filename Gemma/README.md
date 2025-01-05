@@ -51,3 +51,14 @@ ollama run gemma p "What is future of AI like Gemma in 2025?"
 ### Screenshot from my Local
 ![Gemma Locally](ollama-gemma.png)
 
+## Open Web UI
+We can use Open Web UI to run a UI and interact with Ollama
+We can use this command to start the Open Web UI:
+```
+docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:main
+
+```
+
+
+
+
