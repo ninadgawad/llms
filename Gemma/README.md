@@ -51,7 +51,7 @@ ollama run gemma p "What is future of AI like Gemma in 2025?"
 ### Screenshot from my Local
 ![Gemma Locally](ollama-gemma.png)
 
-## Open Web UI
+## Open Web UI [link](https://openwebui.com/)
 We can use Open Web UI to run a UI and interact with Ollama
 We can use this command to start the Open Web UI:
 ```
