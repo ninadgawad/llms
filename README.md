@@ -33,7 +33,7 @@ Effective prompt crafting is crucial for harnessing the full potential of AI-gen
 5. Format: Structure Your Prompt
 
 
-### Google's Whitepaper on Agents [Link to Google's WHitepaper](https://www.kaggle.com/whitepaper-agents?trk=public_post_comment-text)
+### Google's Whitepaper on Agents [Link to Google's Whitepaper on LLM Agents](https://www.kaggle.com/whitepaper-agents?trk=public_post_comment-text)
 This whitepaper explores the concept of Generative AI agents, detailing their core components and applications. ​ 
 It explains how agents extend the capabilities of language models by using tools to access real-time information and perform complex tasks autonomously. ​ 
 Key components include the model (language model), tools (extensions, functions, data stores), and the orchestration layer (decision-making process). ​ 
