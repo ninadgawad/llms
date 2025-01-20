@@ -1,4 +1,5 @@
 ## DeepSeek R1 
+DeepSeek’s first-generation reasoning models, achieving performance comparable to OpenAI-o1 across math, code, and reasoning tasks.
 
 ### Install on Ollama
 ```
