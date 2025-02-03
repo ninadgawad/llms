@@ -15,11 +15,11 @@ This skill is becoming increasingly valuable as AI-powered development assistant
 4. **Improves Learning & Knowledge Sharing** – Developers can use AI to quickly grasp unfamiliar technologies, frameworks, or best practices by asking well-structured questions.
 
 ### Best Practices for Effective Prompt Engineering
-- Be Clear and Specific – Clearly define the problem and provide context to get accurate responses. Instead of asking "Fix this code", specify "Refactor this Java method to improve performance and readability."
-- Provide Examples – AI models respond better when given examples. For instance, "Generate a Python function that sorts a list using merge sort, similar to this quicksort implementation."
-- Use Iterative Refinement – If an AI’s response isn’t optimal, tweak the prompt iteratively to get better results.
-- Leverage Role-Based Instructions – Instead of asking "Explain recursion", try "As an experienced Java developer, explain recursion with a real-world analogy and a code example."
-- Combine Multiple Instructions – AI can handle complex tasks if given structured multi-step prompts, such as "Write a React component for a login form, including form validation and API integration."
+- **Be Clear and Specific** – Clearly define the problem and provide context to get accurate responses. Instead of asking "Fix this code", specify "Refactor this Java method to improve performance and readability."
+- **Provide Examples** – AI models respond better when given examples. For instance, "Generate a Python function that sorts a list using merge sort, similar to this quicksort implementation."
+- **Use Iterative Refinement** – If an AI’s response isn’t optimal, tweak the prompt iteratively to get better results.
+- **Leverage Role-Based Instructions** – Instead of asking "Explain recursion", try "As an experienced Java developer, explain recursion with a real-world analogy and a code example."
+- **Combine Multiple Instructions** – AI can handle complex tasks if given structured multi-step prompts, such as "Write a React component for a login form, including form validation and API integration."
 
 ### Real-World Use Cases for Developers
 
