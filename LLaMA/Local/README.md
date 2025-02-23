@@ -26,13 +26,13 @@ ollama run nice
 
 ## Various Endpoints
 **Tags:**
-http://localhost:11432/api/tags
+http://localhost:11434/api/tags
 
 **Generate:**
-http://localhost:11432/api/generate
+http://localhost:11434/api/generate
 
 **Chat:**
-http://localhost:11432/api/chat
+http://localhost:11434/api/chat
 
 
 
