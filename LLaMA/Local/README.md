@@ -20,3 +20,16 @@ ollama run nice
 >>> What is your name ?
 >>> My name is Nice. I'm here to help answer your questions!
 ```
+
+
+## Running llama3.2:latest locally API
+
+## Various Endpoints
+**Tags:**
+http://localhost:11432/api/tags
+
+**Generate:**
+http://localhost:11432/api/generate
+
+**Chat:**
+http://localhost:11432/api/chat
