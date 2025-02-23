@@ -33,3 +33,13 @@ http://localhost:11432/api/generate
 
 **Chat:**
 http://localhost:11432/api/chat
+
+
+
+
+
+
+
+**Reference:**
+***
+Ollama Docs: https://github.com/ollama/ollama/blob/main/docs/api.md
