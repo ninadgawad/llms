@@ -1,4 +1,4 @@
-## Running llama3.2:latest locally
+## Running llama3.2:latest locally command line
 
 **Step1:** Download the Llama model
 ```shell
