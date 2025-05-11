@@ -1,10 +1,11 @@
 ## Agent2Agent Protocol - [A2A](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
 
+###  A New Era of AI Agent Collaboration – Introducing Agent2Agent (A2A)
 
-# A New Era of AI Agent Collaboration – Introducing Agent2Agent (A2A)
 AI agents are quickly becoming essential helpers in our daily work lives — from ordering laptops to helping with customer support or managing supply chains. 
 But to truly unlock their potential, these agents need to **talk to each other**, even if they were built by different companies or technologies.
 That’s where **Agent2Agent (A2A)** comes in.
+
 ---
 ## What is A2A?
 
@@ -98,11 +99,11 @@ Here’s how A2A helps:
 2. It collaborates with other agents to **source profiles**, **schedule interviews**, and even **perform background checks**.
 3. You see all the results in one interface — no jumping between tools.
 
-👉 A2A makes this multi-agent workflow possible and smooth.
+A2A makes this multi-agent workflow possible and smooth.
 
 ---
 
-## 🚀 What’s Next for A2A?
+## What’s Next for A2A?
 
 * **Open Source Protocol** – Built in collaboration with the global tech community
 * **Open for Contributions** – Everyone can get involved
@@ -110,10 +111,10 @@ Here’s how A2A helps:
 
 ---
 
-## 📚 Want to Learn More?
+## Want to Learn More?
 
-* 🔗 Visit the [A2A website](#) for the **draft specification**, **sample code**, and **example scenarios**.
-* 🤝 Join the effort and help shape the future of **collaborative AI agents**.
+* Visit the [A2A website](#) for the **draft specification**, **sample code**, and **example scenarios**.
+* Join the effort and help shape the future of **collaborative AI agents**.
 
 ---
 
