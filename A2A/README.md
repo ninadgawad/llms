@@ -23,7 +23,9 @@ A2A is supported by over **50 tech and consulting partners**, including:
 * **Tech Companies**: Atlassian, Box, Cohere, Intuit, Langchain, MongoDB, Salesforce, SAP, ServiceNow, Workday, and more
 * **Consulting Giants**: Accenture, BCG, Capgemini, Deloitte, KPMG, PwC, TCS, Wipro, Infosys, McKinsey, and more
 
+
 Together, they're building the future of **agent interoperability**.
+
 ---
 
 ## Why A2A Matters
