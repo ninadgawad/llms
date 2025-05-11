@@ -45,6 +45,17 @@ The main components of an agent are:
 - The Orchestration Layer
 
 
+## Key Protocol Differences at a Glance
+
+| **Aspect**            | **MCP**                                                                 | **ACP (BeeAI + IBM)**                                                            | **A2A**                                                                                   |
+|-----------------------|------------------------------------------------------------------------|----------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| **Primary Focus**     | Providing data/tools context to LLMs                                   | Communicating across multiple BeeAI agents in a local-first setting             | Enabling agent-to-agent interoperability across frameworks                                |
+| **Typical Deployment**| Multiple servers, each exposing data, integrated by an MCP host        | BeeAI Server orchestrates open-source agents in a single environment            | Agents on separate frameworks discover & connect via HTTP endpoints                       |
+| **Key Feature**       | Standard “port” for hooking up data and external services to LLMs      | Easy multiagent setups, agent discovery, plus deep telemetry in BeeAI           | “Agent card” discovery, tasks with streaming updates, multi-agent synergy                 |
+| **Most Common Use**   | Single or multiple LLMs that need consistent ways to ingest context    | Spin up a variety of AI agents behind BeeAI’s local-first approach              | Linking disparate agent vendors so they can share tasks & capabilities                    |
+
+
+
 
 # AI Tools
 ![AI Tools](https://github.com/ninadgawad/llms/blob/main/images/AI%20Tools.drawio.png)
