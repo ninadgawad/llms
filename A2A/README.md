@@ -109,17 +109,3 @@ A2A makes this multi-agent workflow possible and smooth.
 * **Open for Contributions** – Everyone can get involved
 * **Production-Ready Version Coming Soon** – Stay tuned for enterprise rollouts later this year
 
----
-
-## Want to Learn More?
-
-* Visit the [A2A website](#) for the **draft specification**, **sample code**, and **example scenarios**.
-* Join the effort and help shape the future of **collaborative AI agents**.
-
----
-
-A2A isn’t just a protocol — it’s a movement toward a smarter, more connected world of AI.
-
----
-
-Would you like me to turn this into a downloadable PDF or help you publish it on a blog platform like Medium or Dev.to?
