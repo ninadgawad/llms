@@ -13,6 +13,9 @@ It is designed to deliver frontier-class performance while remaining small enoug
  ```
 ollama --version
 # ollama version is 0.34.2
+
+ollama pull qwen3.5:9b
+or
 ollama run qwen3.5:9b
 ```
 
